@@ -1,0 +1,2 @@
+﻿testSFML.obj : error LNK2005: main already defined in test1.obj
+F:\Documents 1\Programing\CSLT Project\testSFML\x64\Debug\testSFML.exe : fatal error LNK1169: one or more multiply defined symbols found

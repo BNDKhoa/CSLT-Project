@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Documents 1\\Programing\\CSLT Project\\abc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B25536F8-8F0C-4C6B-9914-8717214CAA85}|abc\\abc.vcxproj|F:\\Documents 1\\Programing\\CSLT Project\\abc\\abc\\abc.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B25536F8-8F0C-4C6B-9914-8717214CAA85}|abc\\abc.vcxproj|solutionrelative:abc\\abc.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "abc.cpp",
+              "DocumentMoniker": "F:\\Documents 1\\Programing\\CSLT Project\\abc\\abc\\abc.cpp",
+              "RelativeDocumentMoniker": "abc\\abc.cpp",
+              "ToolTip": "F:\\Documents 1\\Programing\\CSLT Project\\abc\\abc\\abc.cpp",
+              "RelativeToolTip": "abc\\abc.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-31T04:10:11.03Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
